@@ -4,11 +4,10 @@ title: Logistics
 ---
 
 ## Venue
-**[Venue / Institute]**  
-**Address:** [Street, Postal code, City, Country]  
-**Room:** [Building + Room number]
+The workshop takes place at the guest house of Goethe University, next to **Campus Westend** and the **Botanical Garden**.
 
-**Map:** [Add a link to Google Maps / OpenStreetMap here]
+- **Address:** Frauenlobstraße 1, 60487 Frankfurt am Main  
+- **Map:** https://share.google/BvFwTYJuvQVHOnM1I
 
 ## Getting there
 ### From the airport
@@ -18,22 +17,18 @@ title: Logistics
 ### From the main station
 - [U-Bahn / tram / walking directions]
 
-## Accommodation
-A few nearby options (examples — replace with your picks):
-- **[Hotel 1]** (≈ X min walk) — [price range]
-- **[Hotel 2]** (≈ X min) — [price range]
-- **[Hotel 3]** (near transit) — [price range]
+### From the hotel/city centre
+- [U-Bahn / tram / walking directions] (about 25 min)
 
-## Registration / Access
-- **Registration:** Email **[your-email]** (deadline **[date]**)
-- **ID / security:** [if needed]
-- **Accessibility:** [wheelchair access, elevators, etc.]
+## Accommodation
+Rooms are reserved for participants at:
+
+- **Motel One Römer** (city center)  
+  Map: https://maps.app.goo.gl/uUKkqVybG9ayRWko9  
+
+## Social events
+- **Wednesday evening:** informal gathering close to the hotel  
+- **Thursday evening:** Dinner at 
 
 ## On-site details
 - **Wi-Fi:** [network name + how to obtain credentials]
-- **Coffee/lunch:** [provided? dietary options?]
-- **Reimbursement:** [rules, eligible items, receipt requirements, whom to contact]
-
-## Emergency / contact
-- Organizer: **[Name]**, **[phone optional]**
-- Admin contact: **[Name]**, **[email]**
