@@ -3,15 +3,6 @@ layout: default
 title: Program
 ---
 
-# Program
-
-**Location:** [Venue / Building / Room]  
-**Time zone:** Europe/Berlin (CET/CEST)
-
-[Back to Home](index.html) • [Logistics](logistics.html)
-
----
-
 ## Schedule
 
 > Tip: keep this as a simple table; it prints well and is easy to edit last-minute.
