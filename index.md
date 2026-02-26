@@ -14,8 +14,8 @@ title: Home
 Welcome! This page contains the workshop program and practical information.
 
 ## Quick links
-- **Program:** [Program](program.html)
-- **Logistics:** [Logistics](logistics.html)
+- [Program](program.html)
+- [Logistics](logistics.html)
 
 ## Overview
 **Theme:** Climate impacts and adaptation.
