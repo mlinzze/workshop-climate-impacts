@@ -3,12 +3,6 @@ layout: default
 title: Home
 ---
 
-<div class="callout">
-<strong>Venue:</strong> Goethe University  
-<strong>Time zone:</strong> Europe/Berlin  
-<strong>Contact:</strong> linsenmeier@c3s.uni-frankfurt.de
-</div>
-
 **April 16-17, 2026** • **Frankfurt am Main** • **Goethe University**
 
 Welcome! This page contains the workshop program and practical information.
@@ -28,4 +22,4 @@ Welcome! This page contains the workshop program and practical information.
 - Manuel Linsenmeier, Goethe University
 
 ## Contact
-Email: ****
+Email: **linsenmeier@c3s.uni-frankfurt.de**
