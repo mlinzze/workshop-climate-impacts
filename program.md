@@ -5,8 +5,6 @@ title: Program
 
 ## Schedule
 
-> Tip: keep this as a simple table; it prints well and is easy to edit last-minute.
-
 | Time | Session | Details |
 |---|---|---|
 | 09:00–09:30 | Arrival & coffee | |
