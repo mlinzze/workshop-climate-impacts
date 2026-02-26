@@ -4,7 +4,7 @@ title: Home
 ---
 
 <img
-	src="{{ '/assets/banner.jpg' | relative_url }}"
+	src="{{ '/assets/img/banner.jpg' | relative_url }}"
 	alt="Workshop banner"
 	style="width:100%;max-height:320px;object-fit:cover;border-radius:14px;margin:0 0 1.25rem 0;"
 />
