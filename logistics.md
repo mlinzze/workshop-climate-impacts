@@ -3,6 +3,8 @@ layout: default
 title: Logistics
 ---
 
+[Home](index.html) • [Program](program.html)
+
 ## Venue
 The workshop takes place at the guest house of Goethe University, next to **Campus Westend** and the **Botanical Garden**.
 
