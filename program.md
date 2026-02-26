@@ -3,6 +3,8 @@ layout: default
 title: Program
 ---
 
+[Home](index.html) • [Logistics](logistics.html)
+
 ## Schedule
 
 | Time | Session | Details |
