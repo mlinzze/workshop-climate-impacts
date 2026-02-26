@@ -3,12 +3,6 @@ layout: default
 title: Logistics
 ---
 
-# Logistics
-
-[Back to Home](index.html) • [Program](program.html)
-
----
-
 ## Venue
 **[Venue / Institute]**  
 **Address:** [Street, Postal code, City, Country]  
