@@ -31,7 +31,4 @@ Rooms are reserved for participants at:
 
 - [Motel One Frankfurt-Römer](https://www.motel-one.com/en/hotels/frankfurt/hotel-frankfurt-roemer/) (city centre); [Google Maps](https://maps.app.goo.gl/tSgWsAryspwXmsrY7)
 
-## Social events
-- **Wednesday evening:** Informal get-together close to the hotel
-- **Thursday evening:** Dinner at a restaurant close to the hotel
 
