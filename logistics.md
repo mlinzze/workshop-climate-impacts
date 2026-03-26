@@ -30,7 +30,7 @@ Rooms are reserved for participants at:
 
 ## Social events
 - **Wednesday evening:** informal gathering close to the hotel  
-- **Thursday evening:** Dinner at 
+- **Thursday evening:** Dinner at a restaurant close to the hotel
 
 ## On-site details
-- **Wi-Fi:** [network name + how to obtain credentials]
+- **Wi-Fi:** tbd

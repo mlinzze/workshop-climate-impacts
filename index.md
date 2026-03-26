@@ -13,16 +13,11 @@ title: Home
 
 Welcome! This page contains the workshop program and practical information.
 
+The workshop is funded by the Wuebben Stiftung Wissenschaft.
+
 ## Quick links
 - [Program](program.html)
 - [Logistics](logistics.html)
-
-## Overview
-**Theme:** Climate impacts and adaptation.
-
-**Format:** The workshop will have about 15 presentations.
-
-**Funding:** The workshop is funded by the Wuebben Stiftung Wissenschaft.
 
 ## Organizer
 - Manuel Linsenmeier, Goethe University
