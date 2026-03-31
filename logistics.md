@@ -6,6 +6,7 @@ title: Logistics
 [Home](index.html) • [Program](program.html)
 
 ## Venue
+
 The workshop takes place at the beautiful guest house of [Goethe University](https://www.goethe-university-frankfurt.de/en), next to the Campus Westend and the [Botanical Garden/Palmengarten](https://www.palmengarten.de/en/botanical-garden.html).
 
 - **Address:** [Frauenlobstraße 1, 60487 Frankfurt am Main](https://maps.app.goo.gl/ebD394gP8v41skph8)  
