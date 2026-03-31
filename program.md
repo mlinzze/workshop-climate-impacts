@@ -32,8 +32,7 @@ title: Program
 | 10:20–10:40 | Coffee break | |
 | 10:40–12:00 | **Session 6: Adaptation** | 10:40 **Tom Bearpark** (University of Exeter) — *Turning Points and Adaptation in Climate Impact Regressions* <br> 11:20 **Manuel Linsenmeier** (Goethe University Frankfurt) — *Climate Shift Uncertainty and Economic Damages* |
 | 12:00–13:00 | Lunch | |
-| 13:00–14:20 | **Session 7: International trade** | 
-13:00 **Ghassane Benmir** (IE University) — *Climate Ripples and Production Networks* <br> 13:40 **Max Huppertz** (Bank of England) — *Climate Change Increases Bilateral Trade Costs* |
+| 13:00–14:20 | **Session 7: International trade** | 13:00 **Ghassane Benmir** (IE University) — *Climate Ripples and Production Networks* <br> 13:40 **Max Huppertz** (Bank of England) — *Climate Change Increases Bilateral Trade Costs* |
  14:30– | Coffee | Optional: Walk to the campus Westend (10 min) and craft coffee in [Hoppenworth and Ploch](https://maps.app.goo.gl/MdK9vtymSpdakPcR8) |
 
 ---
