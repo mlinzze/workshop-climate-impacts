@@ -13,7 +13,7 @@ title: Program
 |---|---|---|
 | 09:00–09:30 | Arrival & coffee | |
 | 09:30–09:40 | Welcome | Manuel Linsenmeier (Goethe University Frankfurt) |
-| 09:40–11:00 | **Session 1: Firms** | 09:40 **Glen Gostlow** (University of Zurich) — *What Firms Actually Lose (And Gain) From Extreme Weather Event Impacts* <br> 10:20 **Karol Kempa** (Frankfurt School of Finance & Management) — *The Impact of Climate Change on Agricultural Firms* |
+| 09:40–11:00 | **Session 1: Firms** | 09:40 **Glen Gostlow** (University of Zurich) — *What Firms Actually Lose (And Gain) From Extreme Weather Event Impacts* <br> 10:20 **Karol Kempa** (Frankfurt School of Finance & Management) — *A Bit Under the Weather? Flood Impacts and Firm Recovery in the Manufacturing Sector* |
 | 11:00–11:20 | Coffee break | |
 | 11:20–12:40 | **Session 2: Climate Econometrics** | 11:20 **James Rising** (University of Delaware) — *Economic Disparities in a Warming World: A Meta-Analysis of GDP Impacts* <br> 12:00 **Jeff Shrader** (Columbia University) — *A Guide to Climate Damages* |
 | 12:40–13:20 | Lunch | |
