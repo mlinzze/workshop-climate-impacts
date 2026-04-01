@@ -31,8 +31,8 @@ title: Program
 | 09:00–10:20 | **Session 5: Migration** | 09:00 **Leonie Wenz** (PIK / TU Berlin) — *Climate induced cross-border migration at global scales* <br> 09:40 **Guglielmo Zappalà** (Harvard University) — *A Hedonic Social Cost of Carbon: Evidence from US Migration* |
 | 10:20–10:40 | Coffee break | |
 | 10:40–12:00 | **Session 6: Adaptation** | 10:40 **Tom Bearpark** (University of Exeter) — *Turning Points and Adaptation in Climate Impact Regressions* <br> 11:20 **Manuel Linsenmeier** (Goethe University Frankfurt) — *Climate Shift Uncertainty and Economic Damages* |
-| 12:00–13:00 | Lunch | |
-| 13:00–14:20 | **Session 7: International trade** | 13:00 **Ghassane Benmir** (IE University) — *Climate Ripples and Production Networks* <br> 13:40 **Max Huppertz** (Bank of England) — *Climate Change Increases Bilateral Trade Costs* |
- 14:30– | Coffee | Optional: Walk to the campus Westend (10 min) and craft coffee in [Hoppenworth and Ploch](https://maps.app.goo.gl/MdK9vtymSpdakPcR8) |
+| 12:00–12:40 | Lunch | |
+| 12:40–14:00 | **Session 7: International trade** | 12:40 **Ghassane Benmir** (IE University) — *Climate Ripples and Production Networks* <br> 13:20 **Max Huppertz** (Bank of England) — *Climate Change Increases Bilateral Trade Costs* |
+ 14:00– | Coffee | Optional: Walk to the campus Westend (10 min) and craft coffee in [Hoppenworth and Ploch](https://maps.app.goo.gl/MdK9vtymSpdakPcR8) |
 
 ---
