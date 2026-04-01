@@ -10,22 +10,16 @@ title: Logistics
 The workshop takes place at the beautiful guest house of [Goethe University](https://www.goethe-university-frankfurt.de/en), next to the Campus Westend and the [Botanical Garden/Palmengarten](https://www.palmengarten.de/en/botanical-garden.html).
 
 - **Address:** [Frauenlobstraße 1, 60487 Frankfurt am Main](https://maps.app.goo.gl/ebD394gP8v41skph8)  
+- **Getting there:** The closest underground station (U-Bahn) is *Bockenheimer Warte*. From there it is a 15-minutes walk to the venue. There are also buses M32 and M36 for that last stretch (get off at bus stop *Botanischer Garten*).
 - **Wi-Fi:** tbd
 
-## Getting there
+### From the airport to the city centre (or hotel)
+- **S-Bahn:** The airport is connected to the city centre with direct local trains (S-Bahn) S8 or S9.
+- The stop closest to the hotel is *Hauptwache* (about 20 minutes from the airport). From there it is a 5-minutes walk to the hotel.
+- **Taxi / ride-share**: There are metered taxis outside the airport terminal. Uber is also available, with a dedicated pick up area (follow signs in the arrivals area). The ride to the city centre is about 20 minutes.
 
 > Public transport in Frankfurt:
-A single ticket within Frankfurt (Preisstufe 1) costs around €3. You can buy tickets at RMV machines in any station or via the [RMV app](https://www.rmv.de/c/en/). All tickets are valid across S-Bahn, U-Bahn, tram, and bus with changes allowed.
-
-### From the airport
-- **S-Bahn + U-Bahn (~40 min, ~€5):** Take the S8 or S9 toward the city centre to *Hauptwache*. Transfer to the U6 (direction Praunheim) or U7 (direction Hausen) and exit at *Bockenheimer Warte*. From there it is a 15-minute walk to the venue. There are also buses M32 and M36 for the last stretch (get off at bus stop Botanischer Garten).
-- **Taxi / ride (~20 min, ~€40–50)**
-
-### From the main station (Hauptbahnhof)
-- **U-Bahn (~15 min):** Take the U4 (direction Bockenheimer Warte) to the end station *Bockenheimer Warte*. From there it is a 15-minute walk to the venue. There are also buses M32 and M36 for the last stretch (get off at bus stop Botanischer Garten).
-
-### From Motel One Römer / city centre
-- **U-Bahn (~15 min):** From *Dom/Römer*, take the U4 (direction Bockenheimer Warte) to the final station *Bockenheimer Warte*. From there it is a 15-minute walk to the venue. There are also buses M32 and M36 for the last stretch (get off at bus stop Botanischer Garten).
+You can buy tickets at RMV machines in any station or via the [RMV app](https://www.rmv.de/c/en/). All tickets are valid across S-Bahn, U-Bahn, tram, and bus with changes allowed.
 
 ## Accommodation
 Rooms are reserved for participants at:
