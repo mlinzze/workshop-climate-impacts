@@ -15,9 +15,9 @@ The workshop takes place at the beautiful guest house of [Goethe University](htt
 
 ## Accommodation
 
-Rooms are reserved for participants at:
+Rooms are reserved for participants at [Motel One Frankfurt-Römer](https://www.motel-one.com/en/hotels/frankfurt/hotel-frankfurt-roemer/) (city centre).
 
-- [Motel One Frankfurt-Römer](https://www.motel-one.com/en/hotels/frankfurt/hotel-frankfurt-roemer/) (city centre); [Google Maps](https://maps.app.goo.gl/tSgWsAryspwXmsrY7)
+- **Address:** [Berliner Straße 55, 60311 Frankfurt am Main]https://maps.app.goo.gl/tSgWsAryspwXmsrY7).
 
 ### Getting there: from the airport
 
