@@ -21,8 +21,7 @@ Rooms are reserved for participants at:
 
 ### Getting there: from the airport
 
-- **S-Bahn:** The airport is connected to the city centre with direct local trains S8 or S9 (about 20 minutes).
-- The stop closest to the hotel is *Hauptwache* . From there it is a 5-minutes walk to the hotel.
+- **S-Bahn:** The airport is connected to the city centre with direct local trains S8 or S9 (about 20 minutes). The stop closest to the hotel is *Hauptwache* . From there it is a 5-minutes walk to the hotel.
 - **Taxi / ride-share**: There are metered taxis outside the airport terminal. Uber is also available, with a dedicated pick up area (follow signs in the arrivals area). The ride to the city centre is about 20 minutes.
 
 > Public transport in Frankfurt:
@@ -31,4 +30,4 @@ You can buy tickets at RMV machines in any station or via the [RMV app](https://
 ### Getting there: from the central station
 
 - **U-Bahn:** Take the underground lines U4 and U5 to *Willy-Brandt-Platz*. From there it is a 5-minutes walk to the hotel.
-- **S-Bahn:**: Take the lines S1, S5, S6, S8, S9 to *Hauptwache*. From there it is a 5-minutes walk to the hotel.
+- **S-Bahn:** Take the lines S1, S5, S6, S8, S9 to *Hauptwache*. From there it is a 5-minutes walk to the hotel.
