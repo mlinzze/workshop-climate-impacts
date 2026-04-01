@@ -15,9 +15,11 @@ title: Program
 | 09:30–09:40 | Welcome | Manuel Linsenmeier (Goethe University Frankfurt) |
 | 09:40–11:00 | **Session 1: Firms** | 09:40 **Glen Gostlow** (University of Zurich) — *What Firms Actually Lose (And Gain) From Extreme Weather Event Impacts* <br> 10:20 **Karol Kempa** (Frankfurt School of Finance & Management) — *A Bit Under the Weather? Flood Impacts and Firm Recovery in the Manufacturing Sector* |
 | 11:00–11:20 | Coffee break | |
-| 11:20–12:40 | **Session 2: Climate Econometrics** | 11:20 **James Rising** (University of Delaware) — *Economic Disparities in a Warming World: A Meta-Analysis of GDP Impacts* <br> 12:00 **Jeff Shrader** (Columbia University) — *A Guide to Climate Damages* |
-| 12:40–13:20 | Lunch | |
-| 13:20–13:50 | **Lightning Talks** | Ambre Kutten (Goethe University Frankfurt, Bundesbank) <br> Cannon Cloud (Goethe University Frankfurt) <br> Samuel Manfredi (Goethe University Frankfurt) |
+| 11:20–12:40 | **Session 2: Climate Damages** | 11:20 **James Rising** (University of Delaware) — *Economic Disparities in a Warming World: A Meta-Analysis of GDP Impacts* <br> 12:00 **Jeff Shrader** (Columbia University) — *A Guide to Climate Damages* |
+| 12:40–13:10 | Lunch | |
+| 13:10–13:50 | **Lightning Talks** | Ambre Kutten (Goethe University Frankfurt & Bundesbank) <br> Cannon Cloud (Goethe University Frankfurt) <br> 
+Mathilde Bossut (Frankfurt School of Finance & Management) <br> 
+Samuel Manfredi (Goethe University Frankfurt) |
 | 13:50–14:00 | Break | |
 | 14:00–15:20 | **Session 3: Development** | 14:00 **Maria Waldinger** (KU Eichstätt-Ingolstadt) — *Female Heads of Household, Vulnerability, and Climate Change* <br> 14:40 **Matthias Schündeln** (Goethe University Frankfurt) — *Does Development Contribute to Democracy? Microeconomic Evidence from Severe Climate Events* |
 | 15:20–15:40 | Coffee break | |
