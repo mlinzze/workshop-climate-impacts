@@ -22,7 +22,7 @@ title: Program
 | 14:00–15:20 | **Session 3: Development** | 14:00 **Maria Waldinger** (KU Eichstätt-Ingolstadt) — *Female Heads of Household, Vulnerability, and Climate Change* <br> 14:40 **Matthias Schündeln** (Goethe University Frankfurt) — *Does Development Contribute to Democracy? Microeconomic Evidence from Severe Climate Events* |
 | 15:20–15:40 | Coffee break | |
 | 15:40–17:00 | **Session 4: Early Warnings** | 15:40 **Daniel Heyen** (RPTU Kaiserslautern-Landau) — *Early Warning Systems* <br> 16:20 **Francesco Savazzi** (Paris Saclay) — *Heat Mortality: Adaptation and Warnings*  |
-| 19:00– | Dinner in *Frankfurter Wirtshaus* (Mainkai 35, 60311 Frankfurt am Main; [Google Maps](https://maps.app.goo.gl/THdCuznztwj5g72T9); by invitation) | |
+| 19:00 | Dinner (by invitation) | *Frankfurter Wirtshaus* (Mainkai 35, 60311 Frankfurt am Main; [Google Maps](https://maps.app.goo.gl/THdCuznztwj5g72T9)) |
 
 ### Friday, 17 April
 
@@ -33,6 +33,6 @@ title: Program
 | 10:40–12:00 | **Session 6: Adaptation** | 10:40 **Tom Bearpark** (University of Exeter) — *Turning Points and Adaptation in Climate Impact Regressions* <br> 11:20 **Manuel Linsenmeier** (Goethe University Frankfurt) — *Climate Shift Uncertainty and Economic Damages* |
 | 12:00–12:40 | Lunch | |
 | 12:40–14:00 | **Session 7: International trade** | 12:40 **Ghassane Benmir** (IE University) — *Climate Ripples and Production Networks* <br> 13:20 **Max Huppertz** (Bank of England) — *Climate Change Increases Bilateral Trade Costs* |
- 14:00– | Coffee | Optional: Walk to the campus Westend (10 min) and craft coffee in [Hoppenworth and Ploch](https://maps.app.goo.gl/MdK9vtymSpdakPcR8) |
+ 14:00 | Coffee (optional) | Walk to the campus Westend (10 min) and craft coffee in [Hoppenworth and Ploch](https://maps.app.goo.gl/MdK9vtymSpdakPcR8) |
 
 ---
