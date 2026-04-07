@@ -11,9 +11,10 @@ The workshop takes place at the beautiful guest house of [Goethe University](htt
 
 - **Address:** [Frauenlobstraße 1, 60487 Frankfurt am Main](https://maps.app.goo.gl/ebD394gP8v41skph8)  
 - **Getting there:** The closest underground station (U-Bahn) is *Bockenheimer Warte*. From there it is a 15-minutes walk to the venue. There are also buses M32 and M36 for that last stretch (get off at bus stop *Botanischer Garten*).
+- **Wi-Fi:** tbd
+
 > Public transport in Frankfurt:
 You can buy tickets at RMV machines in any station or via the [RMV app](https://www.rmv.de/c/en/). All tickets are valid across S-Bahn, U-Bahn, tram, and bus with changes allowed.
-- **Wi-Fi:** tbd
 
 ## Hotel Accommodation
 
