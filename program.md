@@ -21,8 +21,8 @@ title: Program
 | 13:50–14:00 | Break | |
 | 14:00–15:20 | **Session 3: Development** | 14:00 **Maria Waldinger** (KU Eichstätt-Ingolstadt) — *Female Heads of Household, Vulnerability, and Climate Change* <br> 14:40 **Matthias Schündeln** (Goethe University Frankfurt) — *Does Development Contribute to Democracy? Microeconomic Evidence from Severe Climate Events* |
 | 15:20–15:40 | Coffee break | |
-| 15:40–17:00 | **Session 4: Early Warnings** | 15:40 **Daniel Heyen** (RPTU Kaiserslautern-Landau) — *Early Warning Systems* |
-| 19:00– | Dinner | |
+| 15:40–17:00 | **Session 4: Early Warnings** | 15:40 **Daniel Heyen** (RPTU Kaiserslautern-Landau) — *Early Warning Systems* <br> 16:20 **Francesco Savazzi** (Paris Saclay) — *Heat Mortality: Adaptation and Warnings*  |
+| 19:00– | Dinner in *Frankfurter Wirtshaus* (Mainkai 35, 60311 Frankfurt am Main; [Google Maps](https://maps.app.goo.gl/THdCuznztwj5g72T9); by invitation) | |
 
 ### Friday, 17 April
 
