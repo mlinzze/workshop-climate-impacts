@@ -19,7 +19,7 @@ title: Program
 | 12:40–13:10 | Lunch | |
 | 13:10–13:50 | **Lightning Talks** | Ambre Kutten (Goethe University Frankfurt & Bundesbank) <br> Mathilde Bossut (Frankfurt School of Finance & Management) <br> Samuel Manfredi (Goethe University Frankfurt) <br> Tina Emambakhsh (ECB) |
 | 13:50–14:00 | Break | |
-| 14:00–15:20 | **Session 3: Development** | 14:00 **Maria Waldinger** (KU Eichstätt-Ingolstadt) — *Female Heads of Household, Vulnerability, and Climate Change* <br> 14:40 **Matthias Schündeln** (Goethe University Frankfurt) — *Does Development Contribute to Democracy? Microeconomic Evidence from Severe Climate Events* |
+| 14:00–15:20 | **Session 3: Development and Institutions** | 14:00 **Maria Waldinger** (KU Eichstätt-Ingolstadt) — *The Long-Term Effects of Air Pollution on Health and Labor Market Outcomes: Evidence from Socialist East Germany* <br> 14:40 **Matthias Schündeln** (Goethe University Frankfurt) — *Does Development Contribute to Democracy? Microeconomic Evidence from Severe Climate Events* |
 | 15:20–15:40 | Coffee break | |
 | 15:40–17:00 | **Session 4: Climate Damages II** | 15:40 **Jeff Shrader** (Columbia University) — *A Guide to Climate Damages* <br> 16:20 **Manuel Linsenmeier** (Goethe University Frankfurt) — *Climate Shift Uncertainty and Economic Damages* |
 | 19:00 | Dinner (by invitation) | *Frankfurter Wirtshaus* (Mainkai 35, 60311 Frankfurt am Main; [Google Maps](https://maps.app.goo.gl/THdCuznztwj5g72T9)) |
