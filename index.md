@@ -18,6 +18,7 @@ The workshop is funded by the Wuebben Stiftung Wissenschaft.
 ## Quick links
 - [Program](program.html)
 - [Logistics](logistics.html)
+- [Photos](photos.html)
 
 ## Organizer
 - Manuel Linsenmeier, Goethe University
