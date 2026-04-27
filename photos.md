@@ -12,15 +12,15 @@ A few impressions from the workshop *Climate Impacts and Adaptation*, held at Go
 <div class="photo-grid">
 
 <figure>
-  <img src="assets/img/photos/fotos-01.jpeg" alt="Participants at the workshop">
+  <img src="assets/img/photos/fotos-1.jpeg" alt="Participants at the workshop">
 </figure>
 
 <figure>
-  <img src="assets/img/photos/fotos-02.jpeg" alt="Workshop presentation">
+  <img src="assets/img/photos/fotos-2.jpeg" alt="Workshop presentation">
 </figure>
 
 <figure>
-  <img src="assets/img/photos/fotos-03.jpeg" alt="Lunch break">
+  <img src="assets/img/photos/fotos-3.jpeg" alt="Lunch break">
 </figure>
 
 </div>
